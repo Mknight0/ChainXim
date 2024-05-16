@@ -1,7 +1,8 @@
- # 简介
- ChainXim是一款由XinLab开发的区块链仿真器，用于对不同网络、不同共识协议下的区块链进行仿真验证，可以通过设计网络攻击者辅助评估区块链的安全性能。目前仿真器还处于内部测试阶段。
+ # 简介(Intro)
+ChainXim是一款由XinLab开发的区块链仿真器,用于对不同网络、不同共识协议下的区块链进行仿真验证,可以通过设计网络攻击者辅助评估区块链的安全性能。目前仿真器还处于内部测试阶段。
+(ChainXim is a blockchain simulator developed by XinLab, which is used to simulate and verify blockchains under different networks and different consensus protocols, and can be designed to assist network attackers in evaluating the security performance of the blockchain. The emulator is currently in the internal testing phase.)
 
-# 安装 
+# 安装() 
  **Dependency**
  - python >= 3.7
  - graphviz
