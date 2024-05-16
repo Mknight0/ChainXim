@@ -35,3 +35,5 @@ python main.py
 # 下载(Download)
 请访问如下网址并填写您的相关信息，我们承诺对收集到的所有结果保密。在您填写完问卷之后，我们会将完整的仿真器文件通过您填写的邮箱发送给您。
 (Please visit the website below and fill in your relevant information, we promise to keep all the results collected confidential. After you have completed the questionnaire, we will send you the complete simulator program via the email address you have filled in.)
+
+https://www.wjx.cn/vm/t689cqs.aspx
