@@ -28,7 +28,7 @@ Simulation data will be generated in the Results folder, including each miner's 
 - Network.py: Network class, including network topology and propagation-related functions
 - Attack.py: Attacker class and associated functions
 - functions.py: Some functions that include calculating hashes(SHA256)
-- external.py: (Some external functions
+- external.py: Some external functions
 
 # Download
 Please visit the website below and fill in your relevant information, we promise to keep all the results collected confidential. After you have completed the questionnaire, we will send you the complete simulator program via the email address you have filled in.
